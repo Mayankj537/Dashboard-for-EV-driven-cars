@@ -1,2 +1,12 @@
-# Dashboard-for-EV-driven-cars
-I have participated in JLR's Global hackathon and made a smart AI based EV battery management dashboard. 
+### Quick Start
+
+Run in terminal this command:
+
+```bash
+npm install
+```
+
+Then run this command to start your local server
+
+```bash
+npm start
